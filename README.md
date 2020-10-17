@@ -10,9 +10,9 @@ This is unofficial SDK for [https://wowcube.com](WowCube).
 
 ## How to
 
-`make build` - compile pawn
-`make amx` - starts 8 instances of pawnrun with compiled amx code 
-`make emu` - starts Processing emulator
+* `make build` - compile pawn
+* `make amx` - starts 8 instances of pawnrun with compiled amx code 
+* `make emu` - starts Processing emulator
 
 ## Flaws
 
